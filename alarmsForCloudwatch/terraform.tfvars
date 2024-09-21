@@ -1,15 +1,11 @@
 ##### SNS ARN ######
-sns_topic_arn = "arn:aws:sns:us-east-1:421617092884:general-alerts"
+sns_topic_arn = ""
 
-##### County Name #####
-county_name = "riodocs-prd"
 
 ##### Tags List #####
 tags = {
   Terraform   = "true"
-  CountyName  = "riodocs-prd"
-  CountyId    = "0"
-  Environment = "prd"
+  Environment = ""
 }
 
 ###################################
